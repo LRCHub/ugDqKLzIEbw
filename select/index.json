@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Magic Writer",
+  "base_artist": "saji",
+  "createdAt": "2026-02-15T09:06:15.631444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Magic Writer",
+      "artist": "saji",
+      "has_synced": true,
+      "path": "select/01_Magic_Writer_saji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magic Writer",
+      "artist": "saji",
+      "has_synced": false,
+      "path": "select/02_Magic_Writer_saji.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magic Writer",
+      "artist": "saji",
+      "has_synced": false,
+      "path": "select/pl_01_Magic_Writer_saji.txt"
+    }
+  ]
+}
